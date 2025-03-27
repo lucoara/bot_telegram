@@ -1,4 +1,5 @@
-pyTelegramBotApirequest
+pyTelegramBotApi
+request
 pandas
 numpy
 ta
