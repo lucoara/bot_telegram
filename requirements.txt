@@ -1,1 +1,4 @@
 pyTelegramBotApirequest
+pandas
+numpy
+ta

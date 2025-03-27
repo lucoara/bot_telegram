@@ -4,8 +4,9 @@ import requests
 import random
 
 # Configurações do Bot
-TOKEN = "SEU_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "SEU_GRUPO_CHAT_ID"
+TOKEN = "7880857109:AAG7Oe3fKo48MI9OgNSkYyJ2yt6g-w-oMAQ" 
+
+CHAT_ID = "7268477518"
 
 bot = telebot.TeleBot(TOKEN)
 
